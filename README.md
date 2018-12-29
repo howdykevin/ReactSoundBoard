@@ -1,2 +1,0 @@
-# ReactSoundBoard
-Created with CodeSandbox

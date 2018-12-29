@@ -1,0 +1,29 @@
+#root {
+  /* border: 1px solid green; */
+  height: 500px;
+}
+
+.game {
+  width: 300px;
+}
+
+.controls {
+  height: 200px;
+}
+
+.box {
+  height: 40px;
+}
+
+.drum-pad {
+  cursor: pointer;
+  width: 80px;
+  box-shadow: 6px 6px 1px #999;
+}
+
+.drum-pad:active {
+  background-color: #0074d9;
+  color: whitesmoke;
+  box-shadow: 3px 3px 1px #666;
+  transform: translateX(3px);
+}
