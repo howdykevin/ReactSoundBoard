@@ -99,6 +99,11 @@ class App extends React.Component {
           vol={this.state.volume}
           clip={this.state.track}
         />
+        <div className="text-center">
+          Coded by Kevin.G
+          <br />
+          Powered by https://holt-soundboard.github.io/
+        </div>
       </div>
     );
   }
